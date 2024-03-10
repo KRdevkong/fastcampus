@@ -1,4 +1,5 @@
 # fastcampus 과제 1
+![휴대폰 구매 drawio](https://github.com/KRdevkong/fastcampus/assets/98868520/5292cbae-30e4-4e25-a945-f6052e05643f)
 
 # 작동 순서
 - 유저 인스턴스 생성
