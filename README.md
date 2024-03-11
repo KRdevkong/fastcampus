@@ -1,5 +1,6 @@
 # fastcampus 과제 1
-![휴대폰 구매 drawio](https://github.com/KRdevkong/fastcampus/assets/98868520/5292cbae-30e4-4e25-a945-f6052e05643f)
+![휴대폰 구매 drawio](https://github.com/KRdevkong/fastcampus/assets/98868520/87eaffc5-94df-4697-b2d8-7220cea13344)
+
 
 # 메인 클래스 흐름
 <img width="586" alt="매인 클래스" src="https://github.com/KRdevkong/fastcampus/assets/98868520/e038a778-3e08-48dd-843c-71ef4ef3f344">
@@ -32,7 +33,7 @@
 - 삼성폰, 아이폰 각자 고유 기능 구현
 
 ## 유저 클래스
-![유저클래스1](https://github.com/KRdevkong/fastcampus/assets/98868520/1f9f5546-5776-4a40-92de-8e37c2498304)
+![유저클래스1](https://github.com/KRdevkong/fastcampus/assets/98868520/2ab7662d-0cf2-4fdf-9b60-9f7ff7f5a7c3)
 ![유저클래스2](https://github.com/KRdevkong/fastcampus/assets/98868520/c83a234e-c2f2-42c4-aa2d-6bec97602bca)
 
 - 유저 이름 저장
