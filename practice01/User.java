@@ -11,7 +11,7 @@ public class User extends SmartPhone {
     public void buyIPhone(){
         smartPhone = new IPhone();  // 업캐스팅, 부모 메서드 사용 가능
         System.out.println(userName + "님이 " + ((IPhone)smartPhone).getModelName() + "을 구매하셨습니다.");
-    } 
+    }
 
     public void buySamsungPhone(){
         smartPhone = new SamsungPhone();    //업캐스팅, 부모 메서드 사용 가능
@@ -28,8 +28,12 @@ public class User extends SmartPhone {
 
     }
     public void flip(){
-        System.out.println(userName + "님이 ");
-        ((SamsungPhone)smartPhone).flip();
+        if (smartPhone instanceof SamsungPhone) {
+            System.out.print(userName + "님이 ");
+            ((SamsungPhone)smartPhone).flip();
+        }else{
+            System.out.println("사용할 수 없는 기능입니다.");
+        }
     }
 
 
