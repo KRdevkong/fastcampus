@@ -33,7 +33,7 @@
 - 삼성폰, 아이폰 각자 고유 기능 구현
 
 ## 유저 클래스
-![유저클래스1](https://github.com/KRdevkong/fastcampus/assets/98868520/2ab7662d-0cf2-4fdf-9b60-9f7ff7f5a7c3)
+![유저클래스1](https://github.com/KRdevkong/fastcampus/assets/98868520/99cb5e96-b35f-499d-a7b3-ec2e17852c2d)
 ![유저클래스2](https://github.com/KRdevkong/fastcampus/assets/98868520/c83a234e-c2f2-42c4-aa2d-6bec97602bca)
 
 - 유저 이름 저장
